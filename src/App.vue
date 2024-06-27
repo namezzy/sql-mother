@@ -4,8 +4,8 @@
       <a-col flex="160px" style="margin: 0 auto">
         <RouterLink to="/">
           <a-row align="middle">
-            <img src="./assets/logo.png" alt="SQL之母" class="logo" />
-            <span class="title">SQL之母</span>
+            <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="MySQL" class="logo" />
+            <span class="title">MySQL</span>
           </a-row>
         </RouterLink>
       </a-col>

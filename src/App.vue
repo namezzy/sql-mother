@@ -5,7 +5,7 @@
         <RouterLink to="/">
           <a-row align="middle">
             <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="MySQL" class="logo" />
-            <span class="title">MySQL</span>
+            <span class="title">SQL训练营</span>
           </a-row>
         </RouterLink>
       </a-col>
